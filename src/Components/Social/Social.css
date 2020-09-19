@@ -1,0 +1,12 @@
+.social{
+    width: 455px;
+    border: 2px solid red;
+    border-radius: 15px;
+    text-align: left;
+    margin: 55px auto;
+    padding: 25px;
+    display: flex;
+}
+.image{
+    margin-right: 25px;
+}
